@@ -38,7 +38,7 @@
 
 ## [](https://github.com/f1lc0n3/awesome-asm/blob/master/README.md#external-links)External links
 
-*   [_Beginner C_](http://www.learncs.org/)
+*   [_Beginner C_](http://www.learn-c.org/)
 *   _[C Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html)_
 *   _[Euler Project-C](https://github.com/eagletmt/project-euler-c)_
 *   _[Learn C the hard way](http://c.learncodethehardway.org/book/)_
