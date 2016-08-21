@@ -14,10 +14,12 @@
 
 *   [LearnPython](http://www.learnpython.org/)
 *   [Dive in Top Python](http://www.diveintopython.net/toc/index.html)
+*   [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 
 **Çevrimiçi Video Kaynaklar:**
 
 *   [Python Django Tutorials](https://www.youtube.com/playlist?list=PLxxA5z-8B2xk4szCgFmgonNcCboyNneMD)
+*   [Python Django Tutorials - 2](https://www.youtube.com/user/CodingEntrepreneurs)
 *   [Code Academy](https://www.codecademy.com/learn/python)
 *   [Code School](https://www.codeschool.com/courses/try-python)
 *   [Coursera](https://www.coursera.org/courses?query=python&languages=en)
@@ -73,9 +75,16 @@ Yabancı Kaynaklar:
 
 **Python GUI**
 
+Türkçe Kaynaklar:
+
 *   [PyGtk](http://www.istihza.com/gtk/icindekiler_pygtk.html)
 *   [Py Qt4](http://www.istihza.com/beta/qt4/icindekiler_pyqt.html)
 *   [Python Tkinter](http://www.istihza.com/tk2/icindekiler_tkinter.html)
+
+Yabancı Kaynaklar:
+
+*   [wxPython](http://zetcode.com/wxpython/)
+*   [EasyGUI](http://easygui.readthedocs.io/en/master/)
 
 **Python Web**
 
